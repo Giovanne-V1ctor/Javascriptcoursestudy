@@ -130,3 +130,6 @@ console.log(curso[property]);
 
 
 // teste de commitlkajsdlkajsd
+
+//--- arrays----
+
